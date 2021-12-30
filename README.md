@@ -45,27 +45,3 @@ npm run serve
 cd client
 npm start
 ```
-
-## Author
-
-👤 **rimijoker**
-
-* Twitter: [@rimijoker](https://twitter.com/rimijoker)
-* Github: [@rimijoker](https://github.com/rimijoker)
-* LinkedIn: [@iamanshumansingh](https://linkedin.com/in/iamanshumansingh)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/rimijoker">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## 📝 License
-
-Copyright © 2021 [rimijoker](https://github.com/rimijoker).<br />
-This project is [GPLv3](https://github.com/rimijoker/Social-Media-App/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
